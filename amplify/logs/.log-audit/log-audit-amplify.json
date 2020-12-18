@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "/home/abe/Documents/reactamplified/amplify/logs/.log-audit/log-audit-amplify.json",
+    "files": [
+        {
+            "date": 1607969201334,
+            "name": "/home/abe/Documents/reactamplified/amplify/logs/amplify-cli-2020-12-14.log",
+            "hash": "505a6df152e580ccac6a7e7328fbd895"
+        },
+        {
+            "date": 1608059852540,
+            "name": "/home/abe/Documents/reactamplified/amplify/logs/amplify-cli-2020-12-15.log",
+            "hash": "cbf14b1f99dd6de9eda8d6919e5a17dd"
+        },
+        {
+            "date": 1608222178039,
+            "name": "/home/abe/Documents/reactamplified/amplify/logs/amplify-cli-2020-12-17.log",
+            "hash": "c286f94e709a943cb10fa5fb47d877f8"
+        }
+    ]
+}

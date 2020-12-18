@@ -16,13 +16,5 @@
         }
       }
     }
-  },
-  "auth": {
-    "reactamplified4902a1ce": {
-      "service": "Cognito",
-      "providerPlugin": "awscloudformation",
-      "dependsOn": [],
-      "customAuth": false
-    }
   }
 }
